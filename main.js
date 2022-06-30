@@ -1,5 +1,5 @@
 function last() {
-    window.location.href = "articulos/bienvenida/index.html"
+    window.location.href = "articulos/trisquel/index.html"
 }
 function all() {
     window.location.href = "all/index.html"
